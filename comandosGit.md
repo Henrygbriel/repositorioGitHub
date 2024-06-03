@@ -9,3 +9,4 @@
 7. Git config
 8. Git pull
 9. Git Push
+10. GIT TESTE
